@@ -20,6 +20,6 @@ def find_most_frequent_words(string,k):
             most_frequent_words.append(kmer)
     return most_frequent_words
 
-#print (find_most_frequent_words("CGATATATCCATAGTAT",3))
+print (find_most_frequent_words("CGATATATCCATAGTAT",3))
 
                 
