@@ -10,3 +10,4 @@
 我们团队关注的项目（👆👆也在关注中）：@realio_network @EktaChain @spumeio @cache_gold @Bixosinc @TheopetraLabs @quant_network @MNWSupplyChain
 
 #8/24  生活 回到了漳电 感慨 平原上的摩西等是如何的真实，如何自然而然的就能激发出创作的灵感，如果需要创作的话
+#8/26  生活 准备离开，昨天一个人走到了水库，很近很近，晚上吃砂锅，价格是不是也和宁波的消费水平一样了？据说百万机组月薪上万了，那这里和那里还有什么差别？
